@@ -1,0 +1,25 @@
+body {margin:0;
+font-family:arial;
+background-color:#0a3d62;
+color:white}
+
+.container {text-align:center;
+padding:20px}
+
+h1{margin-bottom:30px;}
+
+.menu{background-color:#1e5f8a;
+padding:15px;
+border-radius:10px}
+
+.menu a{color:white;
+text-decoration:none;
+margin:10px;
+padding:10px 15px;
+background-color:#3c91e6;
+border-radius:5px}
+
+.menu a:hover{background-color:#74b9ff}
+
+.profile img{width:120px;
+border-radius:10px}
